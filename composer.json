@@ -1,0 +1,17 @@
+
+{
+    "name": "MarcosSegovia/KataPHP_PrimerFactors",
+    "description": "KataPHP_PrimerFactors",
+    "keywords": ["kata", "prime_factors"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Marcos Segovia",
+            "email": "me@marcossegovia.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "phpunit/phpunit": "4.7.*"
+    }
+}
